@@ -1,9 +1,9 @@
 .post {
-  background: #ffffff; // Black
+  background: #000000; // Updated to black background
   margin: 2em auto;
   max-width: 60rem;
   padding: 2em 0;
-  box-shadow: 12px 18px 24px rgba(0, 0, 0, 0.1); // Updated box-shadow color
+  box-shadow: 12px 18px 24px rgba(0, 0, 0, 0.1);
 }
 
 .post > * {
@@ -24,6 +24,7 @@
   text-align: justify;
   text-indent: 1.5em;
   text-justify: inter-word;
+  font-size: 1em; // Adjusted font size for readability
 }
 
 .post p:first-of-type,
@@ -32,7 +33,7 @@
 }
 
 .post a:hover {
-  background: #ffffff; // White
+  background: #ffffff; // White background on hover
 }
 
 .post dl,
@@ -58,13 +59,13 @@
 
 .back-link {
   display: inline-block;
-  font-size: 0.75em; // Adjusted font-size for better readability
+  font-size: 0.75em;
   padding: 1em;
   text-decoration: none;
   text-transform: uppercase;
 }
 
 .post-content {
-  color: #ffffff; // White text color
-  font-family: "Raleway", Arial, sans-serif; // Stylish font
+  color: #ffffff;
+  font-family: "Raleway", Arial, sans-serif;
 }
