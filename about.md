@@ -3,7 +3,7 @@ layout: post
 title: About
 ---
 
-Hey, I am vamshi.. from India, I am a Software Engineer and a wannabe malware analyst.
+Hey, I am vamshi.. from India, I am a Software Engineer(ofcourse) and has a passion with cyber sec.
 
 <figure>
   <!-- <img alt="Christopher Hitchens" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" /> -->
