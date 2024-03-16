@@ -17,7 +17,7 @@ title: VM-X09
 email: vmx8212@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hey There..
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://vm-x09.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
 #twitter_username: patdryburgh
